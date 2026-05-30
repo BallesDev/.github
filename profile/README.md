@@ -1,4 +1,4 @@
-<div align="center"><img src="./header.svg" alt="BallesDev" width="540"/></div>
+<div align="center"><img src="./header.png" alt="BallesDev"/></div>
 
 `// from concept to production · est. 2021 · villa ballester, 🇦🇷`
 
